@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "//tour-project-class/static/css/main.c788c248.css",
-    "main.js": "//tour-project-class/static/js/main.74c038ca.js",
-    "index.html": "//tour-project-class/index.html",
-    "main.c788c248.css.map": "//tour-project-class/static/css/main.c788c248.css.map",
-    "main.74c038ca.js.map": "//tour-project-class/static/js/main.74c038ca.js.map"
+    "main.css": "/tour-project-class/static/css/main.c788c248.css",
+    "main.js": "/tour-project-class/static/js/main.74c038ca.js",
+    "index.html": "/tour-project-class/index.html",
+    "main.c788c248.css.map": "/tour-project-class/static/css/main.c788c248.css.map",
+    "main.74c038ca.js.map": "/tour-project-class/static/js/main.74c038ca.js.map"
   },
   "entrypoints": [
     "static/css/main.c788c248.css",
