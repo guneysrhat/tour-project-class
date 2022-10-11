@@ -1,10 +1,15 @@
 const Card = (data) => {
-  console.log("ne geliyo", data);
+  const { title, image, desc } = data;
   return (
     <div className="cards">
-      <h1>{data.title}</h1>
-      <img src={data.image} alt="" />
-      <p>{data.desc}</p>
+      <div className="title">
+        <h1>{title}</h1>
+      </div>
+
+      <img src={image} alt="" />
+      <div className="card-over">
+        <p>{desc}</p>
+      </div>
     </div>
   );
 };
