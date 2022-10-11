@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/guneysrhat/tour-project-class/static/css/main.c788c248.css",
+    "main.js": "/guneysrhat/tour-project-class/static/js/main.74c038ca.js",
+    "index.html": "/guneysrhat/tour-project-class/index.html",
+    "main.c788c248.css.map": "/guneysrhat/tour-project-class/static/css/main.c788c248.css.map",
+    "main.74c038ca.js.map": "/guneysrhat/tour-project-class/static/js/main.74c038ca.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c788c248.css",
+    "static/js/main.74c038ca.js"
+  ]
+}
